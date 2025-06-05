@@ -1,6 +1,6 @@
 # Dialogue Observe
 
-A Python project for dialogue observation and analysis.
+A Python project for dialogue creation and critque via locally hosted language models.
 
 ## Setup
 
